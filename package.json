@@ -1,7 +1,7 @@
 {
   "name": "react-essentials-start",
   "version": "0.0.0",
-  "homepage": "https://<kondabolusaraswathi>.github.io/<FitPeo-Assignment>",
+  "homepage": "https://kondabolusaraswathi.github.io/FitPeo-Assignment",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
