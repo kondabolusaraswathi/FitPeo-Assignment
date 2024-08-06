@@ -1,0 +1,46 @@
+.card {
+   background-color: #29292c;
+    margin:8px;
+  border-radius: 20px
+   
+  }
+  
+  .card-image {
+    width: 60%;
+    height: 50px;
+    
+  }
+  
+  .card-content {
+    padding: 16px;
+  }
+  
+  .card-title {
+    font-size: 1em;
+    margin: 0;
+    color:aliceblue;
+  }
+  
+  .card-description {
+    font-size: 3em;
+    color: white;
+    text-align: left;
+    
+  }
+  .card-progress{
+    color: #c4bdbd;
+    position: absolute;
+  bottom: 0; 
+  right: 0;
+  font-size: 1.5em;
+
+  }
+ 
+  .greenc{
+    color: green;
+  }
+  .redc{
+    color: red;
+  }
+  
+  
