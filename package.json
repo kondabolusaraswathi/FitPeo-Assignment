@@ -4,8 +4,7 @@
   "homepage": "https://kondabolusaraswathi.github.io/FitPeo-Assignment",
   "scripts": {
      "dev": "vite",
-    "build": "vite build",
-  "predeploy": "npm run build",
+    "predeploy": "vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d build"
   },
