@@ -5,13 +5,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App';
 import GlobalStyle from './globalStyles';
 import Container from './Container';
-
-ReactDOM.render(
+import './index.css'
+ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <GlobalStyle />
-    {/* <App /> */}
-    <Container></Container>
+        <GlobalStyle />
+        <Container></Container>
   </React.StrictMode>,
-  document.getElementById('root')
-);
+)
 
